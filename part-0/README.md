@@ -1,3 +1,3 @@
 # Part 0 - Fundamentals of Web apps
 
-En esta parte se nos da información sobre el funcionamiento del curso y fundamentos basicos del desarrollo web como HTML, CSS y ejemplos de manejo de DOM con Javascript ademas de HTTP protocols.
+In this part we are given information about the operation of the course and basic fundamentals of web development such as HTML, CSS and examples of DOM management with Javascript in addition to HTTP protocols.
